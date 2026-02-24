@@ -9,6 +9,7 @@ To reproduce these results, follow these steps in Google Colab:
 * **Parameters:** 30 Epochs | 640 Image Size | Batch 16
 * **Environment:** `ultralytics` library installed via pip.
 * **Hardware:** Tesla T4 GPU (Google Colab).
+
 "Project Map" section:
 📂 Notebooks: Training and validation code.
 
