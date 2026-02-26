@@ -16,10 +16,17 @@ To reproduce these results, follow these steps in Google Colab:
 * **Environment:** `ultralytics` library installed via pip.
 * **Hardware:** Tesla T4 GPU (Google Colab).
 
-"Project Map" section:
+Metric,Value
+Precision,"[Insert Value from Member 2, e.g., 0.85]"
+Recall,"[Insert Value from Member 2, e.g., 0.81]"
+mAP @ 50,"[Insert Value from Member 2, e.g., 0.83]"
 
-📂 Notebooks: Training and validation code.
+Goal Evaluation: Our target was a $mAP@50$ of 0.75. The final model [exceeded/met] this target, demonstrating high reliability for machinery detection in dusty site conditions.
 
-📂 Documentation: Error analysis and governance checklist.
+📂 Project Structure
 
-📂 Results: Metrics, curves, and prediction evidence.
+📁 Notebooks: Google Colab training scripts.
+
+📁 Documentation: Contains the Error Analysis & Improvement Plan and the Governance Checklist.
+
+📁 Results: Inference Evidence and training Metrics.
