@@ -29,4 +29,11 @@ Goal Evaluation: Our target was a $mAP@50$ of 0.75. The final model [exceeded/me
 
 📁 Documentation: Contains the Error Analysis & Improvement Plan and the Governance Checklist.
 
+Quality & Governance Summary
+Analysis Findings: Through our Error Analysis, we identified that while the model is highly effective at detecting large machinery, it faces specific challenges with Class Confusion (mistaking earth mounds for equipment) and Occlusion (workers obscured by structural elements).
+
+Safety & Governance: Our Governance Checklist confirms that the model is a prototype for educational purposes and highlights the critical safety risk of False Negatives in high-stakes AECO environments.
+
+Future Roadmap: To increase reliability, our prioritized improvement plan recommends implementing Hard Negative Mining and Mosaic Augmentation in the next training iteration.
+
 📁 Results: Inference Evidence and training Metrics.
