@@ -17,9 +17,9 @@ To reproduce these results, follow these steps in Google Colab:
 * **Hardware:** Tesla T4 GPU (Google Colab).
 
 Metric,Value
-Precision,"[Insert Value from Member 2, e.g., 0.85]"
-Recall,"[Insert Value from Member 2, e.g., 0.81]"
-mAP @ 50,"[Insert Value from Member 2, e.g., 0.83]"
+Precision,"[]"
+Recall,"[]"
+mAP @ 50,"[]"
 
 Goal Evaluation: Our target was a $mAP@50$ of 0.75. The final model [exceeded/met] this target, demonstrating high reliability for machinery detection in dusty site conditions.
 
