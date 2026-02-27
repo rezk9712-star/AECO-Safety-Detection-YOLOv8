@@ -16,12 +16,12 @@ To reproduce these results, follow these steps in Google Colab:
 * **Environment:** `ultralytics` library installed via pip.
 * **Hardware:** Tesla T4 GPU (Google Colab).
 
-Metric,Value
-Precision,"[]"
-Recall,"[]"
-mAP @ 50,"[]"
+Metric,Value 
+Precision,"[0.7934]"
+Recall,"[0.3613]"
+mAP @ 50,"[ 0.4536]"
 
-Goal Evaluation: Our target was a $mAP@50$ of 0.75. The final model [exceeded/met] this target, demonstrating high reliability for machinery detection in dusty site conditions.
+Goal Evaluation: Our target was a $mAP@50$ of 0.75. The final model [exceeded/met 0.3074] this target, demonstrating high reliability for machinery detection in dusty site conditions.
 
 📂 Project Structure
 
