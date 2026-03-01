@@ -1,0 +1,5 @@
+Category,Image Filenames to Upload
+3–5 Annotation Examples,"annotation_examples_01.jpg, annotation_examples_02.jpg, annotation_examples_04.jpg"
+10 Validation Predictions,"Annotation 5 (1).jpg, annotation_examples_05.jpg, plus any other screenshots from your Colab training results"
+False Positives (FP),"fp_01_excavator.jpg, fp_02_excavator.jpg, fp_03_concrete.jpg"
+False Negatives (FN),"fn_01_excavation.jpg, fn_02_excavator.jpg, fn_03_excavation.jpg"
