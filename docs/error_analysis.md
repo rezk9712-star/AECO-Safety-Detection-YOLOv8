@@ -25,7 +25,8 @@ FN1,False Negative,Ground-truth Excavation Missed: The model failed to detect a 
 
 FN2,False Negative,Ground-truth Excavator Missed: A large excavator was completely ignored by the model.,Scale Variance: The object was likely too large for the YOLOv8n (nano) anchor boxes to process when positioned too close to the camera.
 
-FN3,False Negative,Snow-Covered Excavation Missed: The model missed a pit because it was covered in snow.,"Occlusion/Atmosphere: The layer of snow changed the visual ""signature"" of the excavation class, which was likely trained on dry dirt examples."
+FN3,False Negative,Snow-Covered Excavation Missed: The model missed a pit because it was covered in snow.,"Occlusion/Atmosphere: The layer of snow changed the visual ""signature"" of the excavation class, 
+which was likely trained on dry dirt examples."
 ---
 
 ## Prioritised Next Data Improvements
